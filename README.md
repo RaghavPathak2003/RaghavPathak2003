@@ -64,7 +64,7 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=RaghavPathak2003&show_icons=true&theme=algolia" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghav-pathak&theme=algolia&card_width=500"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaghavPathak2003&theme=algolia&card_width=500"/>
 </p>
 
 <p>
