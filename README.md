@@ -38,7 +38,6 @@
 **Backend**  
 <p>
   <img src="https://skillicons.dev/icons?i=spring" />
-  <img src="https://skillicons.dev/icons?i=springboot" />
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://skillicons.dev/icons?i=maven" />
   <img src="https://skillicons.dev/icons?i=hibernate" />
