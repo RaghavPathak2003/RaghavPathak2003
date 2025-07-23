@@ -24,7 +24,7 @@
 
 ---
 
-### 💻 Tech Stack (Java-Focused):
+### 💻 Tech Stack
 
 **Languages**  
 <p>
@@ -48,14 +48,21 @@
   <img src="https://skillicons.dev/icons?i=js" />
 </p>
 
-**Tools & Platforms**  
+**Cloud & DevOps**  
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" />
+  <img src="https://skillicons.dev/icons?i=apachekafka" />
+</p>
+
+**Tools**  
 <p>
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=postman" />
-  <img src="https://skillicons.dev/icons?i=docker" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" />
   <img src="https://skillicons.dev/icons?i=intellij" />
+  <img src="https://skillicons.dev/icons?i=linux" />
 </p>
 
 ---
