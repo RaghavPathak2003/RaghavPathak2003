@@ -26,51 +26,56 @@
 
 ### 💻 Tech Stack
 
-**Languages**  
-<p>
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
+<!-- Languages -->
+<b>Languages</b>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+  <img src="https://skillicons.dev/icons?i=js" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+  <img src="https://skillicons.dev/icons?i=html" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+  <img src="https://skillicons.dev/icons?i=css" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
 </p>
 
-**Backend**  
-<p>
-  <img src="https://skillicons.dev/icons?i=spring" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=maven" />
-  <img src="https://skillicons.dev/icons?i=hibernate" />
-  <img src="https://skillicons.dev/icons?i=junit" />
+<!-- Backend -->
+<b>Backend</b>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+  <img src="https://skillicons.dev/icons?i=hibernate" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+  <img src="https://skillicons.dev/icons?i=maven" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+  <img src="https://skillicons.dev/icons?i=junit" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
 </p>
 
-**Databases**  
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+<!-- Databases -->
+<b>Databases</b>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
 </p>
 
-**Frontend**  
-<p>
-  <img src="https://skillicons.dev/icons?i=bootstrap" />
-  <img src="https://skillicons.dev/icons?i=js" />
+<!-- Frontend -->
+<b>Frontend</b>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bootstrap" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+  <img src="https://skillicons.dev/icons?i=js" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
 </p>
 
-**Cloud & DevOps**  
-<p>
-  <img src="https://skillicons.dev/icons?i=aws" />
-  <img src="https://skillicons.dev/icons?i=docker" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" />
-  <img src="https://skillicons.dev/icons?i=apachekafka" />
+<!-- Cloud & DevOps -->
+<b>Cloud & DevOps</b>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+  <img src="https://skillicons.dev/icons?i=docker" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+  <img src="https://skillicons.dev/icons?i=apachekafka" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
 </p>
 
-**Tools**  
-<p>
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=postman" />
-  <img src="https://skillicons.dev/icons?i=intellij" />
-  <img src="https://skillicons.dev/icons?i=eclipse" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
+<!-- Tools -->
+<b>Tools</b>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+  <img src="https://skillicons.dev/icons?i=github" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+  <img src="https://skillicons.dev/icons?i=postman" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+  <img src="https://skillicons.dev/icons?i=intellij" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+  <img src="https://skillicons.dev/icons?i=eclipse" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+  <img src="https://skillicons.dev/icons?i=vscode" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
 </p>
 
 ---
