@@ -6,8 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=raghav-pathak&label=Profile%20views&color=0e75b6&style=flat" alt="raghav-pathak" />
 </p>
 
-- 🌱 I am currently deepening my knowledge in **Spring Boot**, **Hibernate**, and **Microservices** to build scalable enterprise applications.
-- 👨‍💻 Explore my work and Java-based projects at: [raghavpathak.in](https://raghavpathak.in)
+- 🌱 I am currently deepening my knowledge in **Spring Boot**, **Rest API**, and **Microservices** to build scalable enterprise applications.
+- 👨‍💻 Explore my work and Java-based projects at: [raghavpathak.in](https://raghavpathak.ink)
 - 💼 I’m **Raghav Pathak**, a results-driven Java Full-Stack Developer from **Indore, Madhya Pradesh**, pursuing a **B.Tech in Computer Science and Engineering** at **VIT Bhopal**. I specialize in building efficient backend systems, designing RESTful APIs, and delivering robust full-stack solutions.
 - 📄 Know about my experiences https://drive.google.com/file/d/18MPO6hMQoG3EhlS4rXfhozjoSK9RpH3d/view?usp=sharing
 
@@ -32,7 +32,6 @@
   <img src="https://skillicons.dev/icons?i=js" />
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=cpp" />
 </p>
 
 **Backend**  
@@ -45,7 +44,6 @@
 
 **Frontend**  
 <p>
-  <img src="https://skillicons.dev/icons?i=thymeleaf" />
   <img src="https://skillicons.dev/icons?i=bootstrap" />
   <img src="https://skillicons.dev/icons?i=js" />
 </p>
@@ -56,7 +54,7 @@
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=postman" />
   <img src="https://skillicons.dev/icons?i=docker" />
-  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" />
   <img src="https://skillicons.dev/icons?i=intellij" />
 </p>
 
@@ -65,7 +63,7 @@
 ### 📊 GitHub Stats:
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=raghav-pathak&show_icons=true&theme=algolia" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RaghavPathak2003&show_icons=true&theme=algolia" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghav-pathak&theme=algolia&card_width=500"/>
 </p>
 
