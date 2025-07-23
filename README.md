@@ -7,9 +7,9 @@
 </p>
 
 - 🌱 I am currently deepening my knowledge in **Spring Boot**, **Hibernate**, and **Microservices** to build scalable enterprise applications.
-- 👨‍💻 Explore my work and Java-based projects at: [raghavpathak.in](https://raghavpathak.in) *(update if applicable)*
+- 👨‍💻 Explore my work and Java-based projects at: [raghavpathak.in](https://raghavpathak.in)
 - 💼 I’m **Raghav Pathak**, a results-driven Java Full-Stack Developer from **Indore, Madhya Pradesh**, pursuing a **B.Tech in Computer Science and Engineering** at **VIT Bhopal**. I specialize in building efficient backend systems, designing RESTful APIs, and delivering robust full-stack solutions.
-- 📄 View my resume: [Download Resume](https://your-resume-link.com) *(replace with actual link)*
+- 📄 Know about my experiences https://drive.google.com/file/d/18MPO6hMQoG3EhlS4rXfhozjoSK9RpH3d/view?usp=sharing
 
 ---
 
