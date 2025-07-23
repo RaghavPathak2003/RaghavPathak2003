@@ -6,10 +6,10 @@
   <img src="https://komarev.com/ghpvc/?username=raghav-pathak&label=Profile%20views&color=0e75b6&style=flat" alt="raghav-pathak" />
 </p>
 
-- 🌱 I’m currently learning advanced Spring Boot, Hibernate, and Microservices  
-- 👨‍💻 Explore my projects: [raghavpathak.in](https://raghavpathak.in/) *(Update if available)*  
-- 💬 I'm Raghav Pathak, a passionate Java Developer from Indore, currently pursuing B.Tech in CSE at VIT Bhopal. I love building efficient backend systems, REST APIs, and scalable full-stack web applications.  
-- 📄 Download my resume: [Resume](https://drive.google.com/) *(Insert your real link)*
+- 🌱 I am currently deepening my knowledge in **Spring Boot**, **Hibernate**, and **Microservices** to build scalable enterprise applications.
+- 👨‍💻 Explore my work and Java-based projects at: [raghavpathak.in](https://raghavpathak.in) *(update if applicable)*
+- 💼 I’m **Raghav Pathak**, a results-driven Java Full-Stack Developer from **Indore, Madhya Pradesh**, pursuing a **B.Tech in Computer Science and Engineering** at **VIT Bhopal**. I specialize in building efficient backend systems, designing RESTful APIs, and delivering robust full-stack solutions.
+- 📄 View my resume: [Download Resume](https://your-resume-link.com) *(replace with actual link)*
 
 ---
 
