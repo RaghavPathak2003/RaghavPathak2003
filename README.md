@@ -26,70 +26,57 @@
 
 ### 💻 Tech Stack
 
-<!-- Frontend -->
-- Frontend  
+<!-- Languages -->
+**Languages**  
 <p align="left" style="margin-top: 0.5rem;">
-  <img src="https://skillicons.dev/icons?i=ts" style="margin-right: 0.5rem;" />
+  <img src="https://skillicons.dev/icons?i=java" style="margin-right: 0.5rem;" />
   <img src="https://skillicons.dev/icons?i=js" style="margin-right: 0.5rem;" />
-  <img src="https://skillicons.dev/icons?i=react" style="margin-right: 0.5rem;" />
-  <img src="https://skillicons.dev/icons?i=nextjs" style="margin-right: 0.5rem;" />
-  <img src="https://skillicons.dev/icons?i=redux" style="margin-right: 0.5rem;" />
-  <img src="https://skillicons.dev/icons?i=tailwind" style="margin-right: 0.5rem;" />
-  <img src="https://skillicons.dev/icons?i=materialui" />
+  <img src="https://skillicons.dev/icons?i=html" style="margin-right: 0.5rem;" />
+  <img src="https://skillicons.dev/icons?i=css" />
 </p>
 
 <!-- Backend -->
-- Backend  
+**Backend**  
 <p align="left" style="margin-top: 0.5rem;">
-  <img src="https://skillicons.dev/icons?i=nodejs" style="margin-right: 0.5rem;" />
-  <img src="https://skillicons.dev/icons?i=express" style="margin-right: 0.5rem;" />
-  <img src="https://skillicons.dev/icons?i=flask" style="margin-right: 0.5rem;" />
   <img src="https://skillicons.dev/icons?i=spring" style="margin-right: 0.5rem;" />
-  <img src="https://skillicons.dev/icons?i=golang" />
-</p>
-
-<!-- Languages -->
-- Languages  
-<p align="left" style="margin-top: 0.5rem;">
-  <img src="https://skillicons.dev/icons?i=cpp" style="margin-right: 0.5rem;" />
-  <img src="https://skillicons.dev/icons?i=py" style="margin-right: 0.5rem;" />
-  <img src="https://skillicons.dev/icons?i=js" style="margin-right: 0.5rem;" />
-  <img src="https://skillicons.dev/icons?i=java" style="margin-right: 0.5rem;" />
-  <img src="https://skillicons.dev/icons?i=golang" style="margin-right: 0.5rem;" />
-  <img src="https://skillicons.dev/icons?i=r" />
-</p>
-
-<!-- Database -->
-- Database  
-<p align="left" style="margin-top: 0.5rem;">
-  <img src="https://skillicons.dev/icons?i=mongodb" style="margin-right: 0.5rem;" />
   <img src="https://skillicons.dev/icons?i=mysql" style="margin-right: 0.5rem;" />
-  <img src="https://skillicons.dev/icons?i=postgresql" />
+  <img src="https://skillicons.dev/icons?i=maven" style="margin-right: 0.5rem;" />
+  <img src="https://skillicons.dev/icons?i=hibernate" style="margin-right: 0.5rem;" />
+  <img src="https://skillicons.dev/icons?i=junit" />
 </p>
 
-<!-- Cloud Servers -->
-- Cloud Servers  
+<!-- Databases -->
+**Databases**  
 <p align="left" style="margin-top: 0.5rem;">
-  <img src="https://skillicons.dev/icons?i=azure" style="margin-right: 0.5rem;" />
+  <img src="https://skillicons.dev/icons?i=mysql" style="margin-right: 0.5rem;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+<!-- Frontend -->
+**Frontend**  
+<p align="left" style="margin-top: 0.5rem;">
+  <img src="https://skillicons.dev/icons?i=bootstrap" style="margin-right: 0.5rem;" />
+  <img src="https://skillicons.dev/icons?i=js" />
+</p>
+
+<!-- Cloud & DevOps -->
+**Cloud & DevOps**  
+<p align="left" style="margin-top: 0.5rem;">
   <img src="https://skillicons.dev/icons?i=aws" style="margin-right: 0.5rem;" />
-  <img src="https://skillicons.dev/icons?i=gcp" style="margin-right: 0.5rem;" />
-  <img src="https://skillicons.dev/icons?i=firebase" style="margin-right: 0.5rem;" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" />
+  <img src="https://skillicons.dev/icons?i=docker" style="margin-right: 0.5rem;" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" style="margin-right: 0.5rem;" />
+  <img src="https://skillicons.dev/icons?i=apachekafka" />
 </p>
 
 <!-- Tools -->
-- Tools  
+**Tools**  
 <p align="left" style="margin-top: 0.5rem;">
   <img src="https://skillicons.dev/icons?i=git" style="margin-right: 0.5rem;" />
   <img src="https://skillicons.dev/icons?i=github" style="margin-right: 0.5rem;" />
-  <img src="https://skillicons.dev/icons?i=docker" style="margin-right: 0.5rem;" />
-  <img src="https://skillicons.dev/icons?i=figma" style="margin-right: 0.5rem;" />
-  <img src="https://skillicons.dev/icons?i=vscode" style="margin-right: 0.5rem;" />
   <img src="https://skillicons.dev/icons?i=postman" style="margin-right: 0.5rem;" />
-  <img src="https://skillicons.dev/icons?i=linux" style="margin-right: 0.5rem;" />
   <img src="https://skillicons.dev/icons?i=intellij" style="margin-right: 0.5rem;" />
   <img src="https://skillicons.dev/icons?i=eclipse" style="margin-right: 0.5rem;" />
-  <img src="https://skillicons.dev/icons?i=junit" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
 ---
