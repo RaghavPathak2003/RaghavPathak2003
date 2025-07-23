@@ -68,14 +68,16 @@
 </p>
 
 <!-- Tools -->
-<b>Tools</b>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
-  <img src="https://skillicons.dev/icons?i=github" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
-  <img src="https://skillicons.dev/icons?i=postman" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
-  <img src="https://skillicons.dev/icons?i=intellij" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
-  <img src="https://skillicons.dev/icons?i=eclipse" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
-  <img src="https://skillicons.dev/icons?i=vscode" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+- Tools
+<p align="left" style="margin-top: 0.5rem;">
+    <img src="https://skillicons.dev/icons?i=git" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+    <img src="https://skillicons.dev/icons?i=github" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+    <img src="https://skillicons.dev/icons?i=docker" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+    <img src="https://skillicons.dev/icons?i=figma" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+    <img src="https://skillicons.dev/icons?i=vscode" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+    <img src="https://skillicons.dev/icons?i=postman" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+    <img src="https://skillicons.dev/icons?i=linux" style="margin-right: 0.5rem; margin-top: 0.5rem;" />
+    <img src="https://skillicons.dev/icons?i=junit" style="margin-top: 0.5rem;" />
 </p>
 
 ---
