@@ -68,16 +68,16 @@
 </p>
 
 <p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raghav-pathak&theme=algolia" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raghav-pathak&theme=algolia" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raghav-pathak&theme=algolia" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raghav-pathak&theme=algolia" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaghavPathak2003&theme=algolia" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaghavPathak2003&theme=algolia" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RaghavPathak2003&theme=algolia" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RaghavPathak2003&theme=algolia" />
 </p>
 
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raghav-pathak&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaghavPathak2003&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=raghav-pathak&theme=algolia&no-frame=true&column=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RaghavPathak2003&theme=algolia&no-frame=true&column=8" />
 </p>
