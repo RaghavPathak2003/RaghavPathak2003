@@ -40,6 +40,13 @@
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://skillicons.dev/icons?i=maven" />
   <img src="https://skillicons.dev/icons?i=hibernate" />
+  <img src="https://skillicons.dev/icons?i=junit" />
+</p>
+
+**Databases**  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
 **Frontend**  
@@ -62,7 +69,8 @@
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=postman" />
   <img src="https://skillicons.dev/icons?i=intellij" />
-  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=eclipse" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
 ---
