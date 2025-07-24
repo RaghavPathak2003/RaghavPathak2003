@@ -76,7 +76,7 @@
   <img src="https://skillicons.dev/icons?i=eclipse" style="margin-right: 0.5rem;" />
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://skillicons.dev/icons?i=intellij" style="margin-right: 0.5rem;" />
-  <img src="https://skillicons.dev/icons?i=mysql workbencg" style="margin-right: 0.5rem;" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL Workbench" style="margin-right: 0.5rem;" />
 </p>
 
 ---
