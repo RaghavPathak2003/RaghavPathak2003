@@ -16,10 +16,9 @@
 ### 🌐 Connect With Me:
 
 <p>
-  <a href="https://www.linkedin.com/in/raghav-pathak/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:raghav@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://raghavpathak.in/"><img src="https://img.shields.io/badge/Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white" /></a>
-  <a href="https://drive.google.com/"><img src="https://img.shields.io/badge/Download%20CV-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" /></a>
+  <a href="linkedin.com/in/raghav-pathak-812a74275" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="raghavpathak1104@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/18MPO6hMQoG3EhlS4rXfhozjoSK9RpH3d/view?usp=sharing"><img src="https://img.shields.io/badge/Download%20CV-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" /></a>
 </p>
 
 ---
@@ -75,8 +74,8 @@
   <img src="https://skillicons.dev/icons?i=postman" style="margin-right: 0.5rem;" />
   <img src="https://skillicons.dev/icons?i=eclipse" style="margin-right: 0.5rem;" />
   <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://skillicons.dev/icons?i=intellij" style="margin-right: 0.5rem;" />
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL Workbench" style="margin-right: 0.5rem;" />
+  <img src="https://skillicons.dev/icons?i=intellij" style="margin-right: 0.5rem;" />
 </p>
 
 ---
