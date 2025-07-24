@@ -39,7 +39,6 @@
 **Backend**  
 <p align="left" style="margin-top: 0.5rem;">
   <img src="https://skillicons.dev/icons?i=spring" style="margin-right: 0.5rem;" />
-  <img src="https://skillicons.dev/icons?i=mysql" style="margin-right: 0.5rem;" />
   <img src="https://skillicons.dev/icons?i=maven" style="margin-right: 0.5rem;" />
   <img src="https://skillicons.dev/icons?i=hibernate" style="margin-right: 0.5rem;" />
   <img src="https://skillicons.dev/icons?i=junit" />
